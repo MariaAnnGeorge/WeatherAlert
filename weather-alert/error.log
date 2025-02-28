@@ -1,0 +1,2 @@
+error: Error fetching weather for London: connect ETIMEDOUT 64:ff9b::9471:8ae:443
+error: Error fetching weather for London: connect ETIMEDOUT 64:ff9b::9471:8a6:443
